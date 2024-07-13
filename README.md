@@ -12,7 +12,7 @@ So far, I've finished
 2. Data Preparation
 3. Segmenting Customers with Rule Based Clustering (Rule Based Segmentation with RFM calculation)
 
-Please review for details
+# Please review for details
 
 I will be performing
 1. Some analyses and EDA on Python
