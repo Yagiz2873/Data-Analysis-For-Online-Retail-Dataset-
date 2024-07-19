@@ -5,7 +5,8 @@ In this repository, I've started to analyze an Online Retail Dataset. Until this
 * **3. Online_Retail_Outlier_Handling_Final_Dataset**
 * **4. SQLQuery1**
 * **5. Customer Segmentation with RFM**
-* **6. Additional Table for Analysis, respectively**
+* **6. Additional Table for Analysis**
+respectively
 
 #### Please review files for details
 
