@@ -7,7 +7,7 @@ In this repository, I've started to analyze an Online Retail Dataset. Until this
 * **5. Customer Segmentation with RFM**
 * **6. Additional Table for Analysis, respectively**
 
-#### Please review files for details**
+#### Please review files for details
 
 ### Business Understanding
 Let's suppose that this company's staff want to understand their customers' behaviors and want to campaign for their customers who are about to leave. Also they want to find and campaign for their customers who brought the most money to them. Also, to increase their profit, they want to find whether there are some associations between the products that bought by their customers. These will be their goals.
