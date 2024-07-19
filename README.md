@@ -18,7 +18,7 @@ So far, I've finished
 
 
 
-**Please review for details**
+**Please review files for details**
 
 I will be performing
 * **1. Some analyses and EDA on Python**
