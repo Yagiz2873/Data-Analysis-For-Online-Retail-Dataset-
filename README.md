@@ -18,9 +18,7 @@ So far, I've finished
 *  **3. Data Preparation**
 *  **4. Segmenting Customers with Rule Based Clustering (Rule Based Segmentation with RFM calculation, by using SQL on SSMS)**
 
-
-
-
+### My Goals for the Project
 
 I will be performing
 * **1. Some analyses and EDA on Python**
