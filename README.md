@@ -7,10 +7,16 @@ In this repository, I've started to analyze an Online Retail Dataset. Until this
 * **5. Customer Segmentation with RFM**
 * **6. Additional Table for Analysis, respectively**
 
+### Business Understanding
+Let's suppose that this company's staff want to understand their customers' behaviors and want to campaign for their customers who are about to leave. Also they want to find and campaign for their customers who brought the most money to them. Also, to increase their profit, they want to find whether there are some associations between the products that bought by their customers. These will be their goals.
+
 So far, I've finished 
-* **1. Data Understanding**
-* **2. Data Preparation**
-* **3. Segmenting Customers with Rule Based Clustering (Rule Based Segmentation with RFM calculation)**
+*  **1. Business Understanding**
+*  **2. Data Understanding**
+*  **3. Data Preparation**
+*  **4. Segmenting Customers with Rule Based Clustering (Rule Based Segmentation with RFM calculation, by using SQL on SSMS)**
+
+
 
 **Please review for details**
 
