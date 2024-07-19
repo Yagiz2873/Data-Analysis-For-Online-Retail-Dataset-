@@ -9,7 +9,7 @@ In this repository, I've started to analyze an Online Retail Dataset. Until this
 
 #### Please review files for details
 
-### Business Understanding
+### Business Understanding & Completed Stages
 Let's suppose that this company's staff want to understand their customers' behaviors and want to campaign for their customers who are about to leave. Also they want to find and campaign for their customers who brought the most money to them. Also, to increase their profit, they want to find whether there are some associations between the products that bought by their customers. These will be their goals.
 
 So far, I've finished 
