@@ -25,6 +25,7 @@ So far, I've finished
 
 I will be performing
 * **1. Some analyses and EDA on Python**
-* **2. Clustering Algorithms (K-Means and Hierarchical)**
-* **3. Recommendation Systems with Appriori Algorithm**
-* **4. Data Visualization on PowerBI**
+* **2. Generating Insights**
+* **3. Clustering Algorithms (K-Means and Hierarchical)**
+* **4. Recommendation Systems with Appriori Algorithm**
+* **5. Data Visualization on PowerBI**
