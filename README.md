@@ -20,6 +20,7 @@ So far, I've finished
 *  **2. Data Understanding**
 *  **3. Data Preparation**
 *  **4. Segmenting Customers with Rule Based Clustering (Rule Based Segmentation with RFM calculation, by using SQL on SSMS)**
+*  **5. Calculation of CLTV metrics based on this retail dataset by using Excel and some formulas**
 
 ### My Goals for the Project
 
