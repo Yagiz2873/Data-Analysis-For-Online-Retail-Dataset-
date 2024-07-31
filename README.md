@@ -31,4 +31,4 @@ I will be performing
 * **4. Recommendation Systems with Appriori Algorithm**
 * **5. Data Visualization on PowerBI**
 
-#### NOTE: If you want to use my analyses for your studies or projects please refer me. I don't apply a strict license protocol because everyone can perform these analyses but I want to increase my recognition to find a job :) 
+#### NOTE: If you want to use my analyses for your studies or projects please refer me on them. I don't apply a strict license protocol because everyone can perform these analyses but I want to increase my recognition to find a job :) 
